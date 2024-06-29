@@ -13,5 +13,5 @@ week 26 of 2024
 Recoil - useRecoilValueLoadable, useSetRecoilStateLoadable, useRecoilValue, useRecoilState, useSetRecoilState,  
 Recoil - Atoms, atomfamily, selector, selector Family  
 React - Routing, Route, browserRouter, useContext State Management.   
-vim in vsCode - learning  h means go left, j means go down, k means go up, l means go right. 
-Projects - did todo Application with frontend in React and used Axios, selector, atoms ( multiple atoms to be fair )  
+vim in vsCode - learning  h means go left, j means go down, k means go up, l means go right.   
+Projects - did todo Application with frontend in React and used Axios, selector, atoms ( multiple atoms to be fair ) , paytm backend.
