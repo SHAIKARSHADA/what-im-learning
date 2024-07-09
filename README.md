@@ -34,4 +34,11 @@ SQL - CREATE TABLE tablename, SERIAL => is an postgres specific thing that lets 
 
 postgresql - used this with connection string , client.query(), client.connect(), storing query values in a separate without using `` or " + " and using $1 , $2 to eliminate SQL injection.   
 
-ORMs - prisma is an thing which is built to make developers life easier so, we don't need to be SQL masters 
+ORMs - prisma is an thing which is built to make developers life easier so, we don't need to be SQL masters   
+
+
+### Week 28 of 2024  
+No more notes taking - I learned this the hard way. I was taking way more notes than necessary even though I am not gonna see it again. I stopped taking notes and replaced it with Comments in the Program itself as It is more useful to do that way.  
+
+Cloudflare-workers: cloudflare provides you with its Serverless Backends and we can just focus on the logic and nothing else, but it has its limitations.
+
